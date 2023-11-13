@@ -31,6 +31,7 @@
 
 ## 기능 세부 설명
 * **게임 시작 화면**
+  
 ![image](https://github.com/suhyunChun/week2_text_game-/assets/89771577/ad27bf08-6b80-4714-a6ef-94a543d5f6fc)
 
   1번 입력시 - 상태보기 페이지로 이동
